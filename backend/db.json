@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "name": "cachorro d'agua",
+      "price": "8000000",
+      "id": 1
+    },
+    {
+      "name": "produto novo 02",
+      "price": "13000",
+      "id": 2
+    }
+  ]
+}
